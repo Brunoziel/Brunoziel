@@ -1,6 +1,6 @@
 ## Olá! 😃
-### Sou Bruno Oziel, programador fullstack com foco principal em desenvolvimento Web e Mobile
-### Estudante de ADS, estou sempre disposto a aceitar novos desafios e usar a criatividade para resolver problemas
+### Sou Bruno Oziel, programador Front-End com foco principal em desenvolvimento Web e Mobile
+### Formado em ADS, sou um amante de tecnologia, curioso e criativo e estou sempre disposto a sair da zona de conforto e aceitar novos desafios. Meu objetivo é utilizar de minhas habilidades garantidas pela graduação e experiências diversas, para oferecer meus conhecimentos a empresas que necessitem de serviço de qualidade.
 
 ##
 
